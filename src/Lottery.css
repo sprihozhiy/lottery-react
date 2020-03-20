@@ -1,0 +1,19 @@
+.Lottery {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid #ccc;
+  margin: 1em auto;
+  border-radius: 10px;
+  padding: 2em;
+}
+
+.Lottery-Balls {
+  display: flex;
+}
+
+.Lottery button {
+  margin-top: 1em;
+  background-color: #ffff66;
+  font-size: 120%;
+}

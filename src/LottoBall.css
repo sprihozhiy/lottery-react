@@ -1,0 +1,13 @@
+.Lotto-Ball {
+  margin-right: 0.5em;
+  padding-top: 0.75em;
+  display: inline-block;
+  width: 3em;
+  height: 2.25em;
+  background-color: #6897bb;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.5em;
+  border-radius: 50%;
+  text-align: center;
+}
